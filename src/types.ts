@@ -1,6 +1,6 @@
 export type TTransaction = {
   id: number;
-  date: string;
+  date: number;
   description: string;
   amount: string;
 };
